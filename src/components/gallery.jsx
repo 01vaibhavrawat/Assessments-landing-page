@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Assessments</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Our mental health assessments provide valuable insight into an individual's mental health status and aid in the diagnosis and treatment of mental health disorders.
           </p>
         </div>
         <div className="row">

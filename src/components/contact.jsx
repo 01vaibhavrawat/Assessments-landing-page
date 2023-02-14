@@ -99,7 +99,7 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Website
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
@@ -149,9 +149,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            &copy; 2023 HealGratefully.com. Proudly designed by{" "}
+            <a href="http://www.HealGratefully.com" rel="nofollow">
+              HealGratefully
             </a>
           </p>
         </div>

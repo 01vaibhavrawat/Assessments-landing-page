@@ -1,132 +1,113 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Heal Gratefully",
+    "paragraph": "Unlock a world of limitless self-improvement opportunities with our extensive resource of self-help content. Say goodbye to procrastination, anxiety, relationship problems, career uncertainty, and lack of confidence. Our expert guides will offer you solutions and support for any issue you may be facing, allowing you to learn from those who have already experienced it."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are an aspiring organization working in the field of mental health, we believe that one has to walk the path of healing by themselves, but they don't have to be alone in it, we provide support and resources. We are determined to spread awareness about mental health issues and help people live happy lives. We are creating resources for people to understand their particular disorders and the process of healing.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Self-help resources",
+      "Daily tasks"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Assessments",
+      "Connect with other members"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Mental Status Examination (MSE)",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Beck Depression Inventory (BDI)",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Hamilton Rating Scale for Anxiety (HAM-A)",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Symptom Checklist-90-Revised (SCL-90-R)",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Minnesota Multiphasic Personality Inventory (MMPI",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Generalized Anxiety Disorder 7-item scale (GAD-7)",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mood Disorder Questionnaire (MDQ)",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Substance Abuse Subtle Screening Inventory (SASSI)",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Symptom Checklist-90-Revised (SCL-90-R)",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tasks",
+      "name": "Wellness Programs and Workshops:",
+      "text": "We offer a variety of wellness programs and workshops to help clients develop self-care strategies, stress management techniques, and other skills that can improve their mental health and overall well-being."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-archive",
+      "name": "Psychiatry Services",
+      "text": " Our board-certified psychiatrists provide comprehensive psychiatric evaluations, medication management, and other treatment options for clients who need medication as part of their mental health treatment plan."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Employee Assistance Programs",
+      "text": "We partner with businesses and organizations to provide EAP services, including mental health counseling and wellness programs, to support employees and their families."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was going through a tough time and didn't know where to turn, but the HealGratefully changed my life. The therapists were kind, understanding, and really helped me work through my issues.\"",
+      "name": "Ethan"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I was struggling with anxiety and depression, HealGratefully was a lifesaver. The therapists were knowledgeable and patient, and they gave me tools and techniques that I still use to this day to manage my symptoms.\"",
+      "name": "Liam"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was feeling lost and alone, but HealGratefully was a shining light in the darkness. The therapists were non-judgmental, empathetic, and helped me understand and accept my feelings. I feel like a new person now, and I can't thank them enough for their help.\"",
+      "name": "Jackson"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I was nervous about seeking help for my mental health, but I'm so glad I did. HealGratefully was a safe, supportive place where I could talk openly and honestly about my feelings. The therapists were amazing and really helped me grow and heal. I can now face the world with confidence and hope, and I owe it all to them.\"",
+      "name": "Emma"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was skeptical about therapy at first, but HealGratefully I found proved me wrong. The therapists were professional, understanding, and made me feel comfortable from the moment I walked in. I've learned so much about myself and how to cope with my struggles.\"",
+      "name": "Samuel"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"It's a very great program, my guide has already helped with my confidence in the short amount of time I’ve been seeing him and he is very encouraging. Conversations are easy and there is no feeling of judgment whatsoever. I am getting so much out of my therapy sessions.\"",
+      "name": "Sophia"
     }
   ],
   "Team": [
@@ -152,9 +133,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "www.HealGratefully.com",
+    "phone": "+91 750 594 2390",
+    "email": "info@healgratefully.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +143,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "24×7 sessions with guides",
+      "text": "Our experienced guides are available to help you through any challenge, at any time of day or night. With our flexible and personalized approach, you can get help, as you need."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Share your Story",
+      "text": "Our platform offers a safe and welcoming space for you to share your personal experiences, challenges, and triumphs. Your words have the power to make a difference, so take the first step and share your story today!"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Connect with other members",
+      "text": " Share your experiences, learn from others, and build meaningful relationships with individuals who understand your struggles and support your goals."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-check",
+      "title": "Get assessed",
+      "text": "Our assessments provide a comprehensive understanding of your strengths, weaknesses, and areas for improvement. With the insights gained from our assessments, you can set realistic goals, make informed decisions"
     }
   ]
 }
